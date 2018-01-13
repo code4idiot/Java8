@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("Print commit 1");
         System.out.println("Print commit 2");
         System.out.println("Print commit 3");
+        System.out.println("Print commit 4");
     }
 }
