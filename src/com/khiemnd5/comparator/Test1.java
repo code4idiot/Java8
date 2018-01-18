@@ -11,5 +11,6 @@ public class Test1 {
         System.out.println("Print commit 4");
         System.out.println("Print commit 5");
         System.out.println("add test4");
+        System.out.println("Print everything");
     }
 }
