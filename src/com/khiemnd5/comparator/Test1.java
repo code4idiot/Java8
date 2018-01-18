@@ -13,5 +13,6 @@ public class Test1 {
         System.out.println("add test4");
         System.out.println("Print everything");
         System.out.println("Print everything 1");
+        System.out.println("Print everything test3");
     }
 }
