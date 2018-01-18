@@ -59,6 +59,7 @@ public class ForEachJava8 {
         ForEachJava8 forEachJava8 = new ForEachJava8();
 //        forEachJava8.printMap();
         forEachJava8.printList();
+        forEachJava8.printList();
     }
 
 
